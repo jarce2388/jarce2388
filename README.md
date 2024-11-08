@@ -1,8 +1,8 @@
-## Mi Portafolio 👋
+## Hola soy Jorge 👋
 
-Jorge Arce Martínez
+Bienvenido a mi portafolio:
 
-Desarrollador de Software y apasionado de la Ciencia de Datos y la Inteligencia Artificial.
+Soy Desarrollador de Software y apasionado de la Ciencia de Datos y la Inteligencia Artificial.
 <!--
 **jarce2388/jarce2388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
